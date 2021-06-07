@@ -17,7 +17,7 @@
     html,
     body {
         background-image: "/img/";
-    font-size: 1rem;
+    font-size: 1.2vw;
     font-family: "Helvetica Neue", Helvetica, "Eina-bold", Arial, sans-serif;
     line-height: 1.5rem;
     color: rgb(255, 255, 255);
